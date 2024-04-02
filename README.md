@@ -18,8 +18,10 @@
 <h3>4. 📫 How to reach me ...</h3>
  - <a href="https://github.com/Jodiecho/" rel="nofollow">My Github</a><br>
  - <a href="https://codepen.io/Jodiecho" rel="">My Codepen</a><br>
- - <a href="https://www.linkedin.com/in/eunseoncho/" rel="">My Linkdin</a><be>
+ - <a href="https://www.linkedin.com/in/eunseoncho/" rel="">My Linkdin</a><br>
 
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodiecho&show_icons=true)](https://github.com/Jodiecho/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodiecho&layout=compact)](https://github.com/Jodiecho/github-readme-stats)
