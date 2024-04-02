@@ -1,4 +1,5 @@
-<h1> Hi, I’m @Jodiecho [Eunseon] <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" height="40px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+<img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" height="40px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> <br>
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40Jodiecho+%5BEunseon%5D" alt="Typing SVG" /></a> </h1>
 
 <h3>1. 👀 I’m interested in ... </h3>
   - Design<br>
