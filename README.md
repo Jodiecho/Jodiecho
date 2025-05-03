@@ -10,6 +10,7 @@
 <h3>2. 🌱 I’m currently learning ...</h3>
   - HTML <br>
   - CSS <br>
+  - Java Script <br>
   - Python <br>
   
 <h3>3. 💞️ Originally I liked to use ...</h3>
